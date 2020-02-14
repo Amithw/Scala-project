@@ -28,17 +28,17 @@ Bronze Medals: No. of bronze medals
 
 Total Medals: Total no. of medals
 
-Dataset Link : 
+**Dataset Link :** 
 https://drive.google.com/drive/folders/0ByJLBTmJojjzVGNsWmpUUUxTZDA
 
-Problem Statement 1
+**Problem Statement 1**
 
 Find the total number of medals won by each country in swimming.
 
-Problem Statement 2
+**Problem Statement 2**
 
 Find the number of medals that India won year wise.
 
-Problem Statement 3
+**Problem Statement 3**
 
 Find the total number of medals won by each country.
