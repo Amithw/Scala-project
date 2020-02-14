@@ -35,10 +35,10 @@ Problem Statement 1
 
 Find the total number of medals won by each country in swimming.
 
-Source code
+Problem Statement 2
 
-val textFile = sc.textFile("hdfs://localhost:9000/olympix_data.csv")
-val counts = textFile.filter { x => {if(x.toString().split("\t").length >= 10) true else false} }.map(line=>{line.toString().split("\t")})
-val fil = counts.filter(x=>{if(x(5).equalsIgnoreCase("swimming")&&(x(9).matches(("\\d+")))) true else false })
-val pairs: RDD[(String, Int)] = fil.map(x => (x(2),x(9).toInt))
-val cnt = pairs.reduceByKey(_ + _).collect()
+Find the number of medals that India won year wise.
+
+Problem Statement 3
+
+Find the total number of medals won by each country.
