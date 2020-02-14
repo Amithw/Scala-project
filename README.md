@@ -4,6 +4,20 @@ As one of the spark use case, we will discuss the analysis of Olympics dataset u
 
 Olympics data set is a publicly available data. Using this dataset, we will evaluate some problem statements such as, finding the number of medals won by each country in swimming, finding the number of medals won by India etc.
 
-Dataset Link
+Data Set Description
 
+The data set consists of the following fields:
+
+Athlete: Name of the athlete
+Age: Age of the athlete
+Country: The name of the country participating in Olympics
+Year: The year in which Olympics is conducted
+Closing Date: Closing date of Olympics
+Sport: Sports name
+Gold Medals: No. of gold medals
+Silver Medals: No. of silver medals
+Bronze Medals: No. of bronze medals
+Total Medals: Total no. of medals
+
+Dataset Link
 https://drive.google.com/drive/folders/0ByJLBTmJojjzVGNsWmpUUUxTZDA
